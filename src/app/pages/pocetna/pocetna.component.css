@@ -1,0 +1,14 @@
+#levaStranaElem{
+    text-emphasis-color: #fff; 
+    position: relative;
+    text-align: center;
+    margin-left: 80px;
+    text-transform: initial;
+    font-style: italic;
+    }
+#desnaStranaElem{
+    text-align: center;
+    margin-left: 80px;
+    text-transform: initial;
+    font-style: italic;
+}
